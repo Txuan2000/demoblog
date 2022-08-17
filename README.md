@@ -1,1 +1,2 @@
 # blogntd
+khởi tạo konva
